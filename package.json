@@ -1,16 +1,16 @@
 {
-  "name": "angular-bootstrap-switch",
+  "name": "angular-bootstrap-switch-forked",
   "version": "0.4.1",
   "main": "dist/angular-bootstrap-switch.js",
   "author": {
-    "name": "Francesco Pontillo",
-    "email": "francescopontillo@gmail.com",
-    "url": "https://github.com/frapontillo"
+    "name": "Tomche Delev",
+    "email": "tomce.delev@gmail.com",
+    "url": "https://github.com/tdelev"
   },
-  "homepage": "https://github.com/frapontillo/angular-bootstrap-switch",
+  "homepage": "https://github.com/tdelev/angular-bootstrap-switch",
   "repository": {
     "type": "git",
-    "url": "git@github.com:frapontillo/angular-bootstrap-switch.git"
+    "url": "git@github.com:tdelev/angular-bootstrap-switch.git"
   },
   "licenses": [
     {
